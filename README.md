@@ -1,6 +1,6 @@
 # fcfile
 
-The first five minutes of every CTF forensics challenge are the same: `file`, `exiftool`, `strings`, `binwalk`, squint at the hex. I got tired of typing it, so this does all of that at once and then runs whatever makes sense for the file type.
+The first five minutes of every CTF forensics challenge are the same. `file`, `exiftool`, `strings`, `binwalk`. So.... why not just do it all at once!!
 
 ```
 $ ./fcfile.sh -p wicys mystery.png
