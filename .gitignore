@@ -1,0 +1,4 @@
+*.extracted/
+*.foremost/
+*.steghide.out
+after_iend.bin
